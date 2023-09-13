@@ -14,3 +14,5 @@ export const App = () => {
     </div>
   );
 };
+
+<App></App>
