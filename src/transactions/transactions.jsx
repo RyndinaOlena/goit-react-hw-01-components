@@ -22,6 +22,6 @@ export const TransactionHistory = ({ transactions }) => {
     </table >
     </div >
 }
-TransactionHistory.propTypes = {
-    transactions: PropTypes.array(PropTypes.any)
-}
+// TransactionHistory.propTypes = {
+//     transactions: PropTypes.array(PropTypes.any)
+// }

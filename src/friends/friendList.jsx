@@ -12,9 +12,9 @@ export const FriendListItem = ({ friends }) => {
         }
     </ul>
 }
-FriendListItem.propTypes = {
-    avatar: PropTypes.array(PropTypes.any),
-    id: PropTypes.array(PropTypes.any),
-    name: PropTypes.string,
-    isOnline: PropTypes.array(PropTypes.any),
-}
+// FriendListItem.propTypes = {
+//     avatar: PropTypes.array(PropTypes.any),
+//     id: PropTypes.array(PropTypes.any),
+//     name: PropTypes.string,
+//     isOnline: PropTypes.array(PropTypes.any),
+// }

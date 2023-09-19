@@ -14,8 +14,8 @@ export const Statistics = ({ stats }) => {
         </ul>
     </section>
 }
-Statistics.propTypes = {
-    id: PropTypes.string,
-    label: PropTypes.string,
-    percentage: PropTypes.number,
-}
+// Statistics.propTypes = {
+//     id: PropTypes.string,
+//     label: PropTypes.string,
+//     percentage: PropTypes.number,
+// }

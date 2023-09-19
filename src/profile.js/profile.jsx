@@ -35,13 +35,13 @@ export const Profile = ({ username, tag, location, avatar, followers, views, lik
         </div>
     </div>
 }
-Profile.propTypes = {
-    username: PropTypes.string,
-    tag: PropTypes.string,
-    location: PropTypes.string,
-    avatar: PropTypes.string,
-    followers: PropTypes.array(PropTypes.any),
-    views: PropTypes.array(PropTypes.any),
-    likes: PropTypes.array(PropTypes.any),
+// Profile.propTypes = {
+//     username: PropTypes.string,
+//     tag: PropTypes.string,
+//     location: PropTypes.string,
+//     avatar: PropTypes.string,
+//     followers: PropTypes.array(PropTypes.any),
+//     views: PropTypes.array(PropTypes.any),
+//     likes: PropTypes.array(PropTypes.any),
 
-}   
+// }   
