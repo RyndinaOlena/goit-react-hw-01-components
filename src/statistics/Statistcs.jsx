@@ -1,5 +1,5 @@
 import css from 'statistics/Statistics.module.css'
-import PropTypes from 'prop-types'
+// import PropTypes from 'prop-types'
 export const Statistics = ({ stats }) => {
     return <section className={css.statistics}>
         <h2 className={css.title}>Upload stats</h2>
