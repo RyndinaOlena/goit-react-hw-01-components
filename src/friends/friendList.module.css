@@ -1,0 +1,40 @@
+.friendList {
+    padding: 0;
+    width: 400px;
+    margin: 45px auto;
+
+}
+
+.item {
+
+    padding: 10px;
+    margin-bottom: 15px;
+    list-style-type: none;
+    border-right: solid 0.5px black;
+    border-bottom: solid 0.5px black;
+    display: flex;
+    background-color: white;
+
+
+
+}
+
+.status {
+    margin-top: 20px;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background: aquamarine;
+}
+
+.statuOn {
+    margin-top: 20px;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background: red;
+}
+
+.avatar {
+    margin: 0 15px;
+}

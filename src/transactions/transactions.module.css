@@ -1,0 +1,33 @@
+.transactionSection {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.transactionHistory {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: white;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+
+}
+
+.td {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.thead {
+    font-family: sans-serif;
+    color: #d3d3d3;
+    background-color: cornflowerblue;
+
+}
+
+.th {
+    color: white;
+}
+
+.tbody tr:nth-child(odd) {
+    background-color: #c0c0c0;
+}
