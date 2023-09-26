@@ -1,4 +1,4 @@
-import css from 'statistics/Statistics.module.css'
+import css from 'components/statistics/Statistics.module.css'
 // import PropTypes from 'prop-types'
 export const Statistics = ({ stats }) => {
     return <section className={css.statistics}>
